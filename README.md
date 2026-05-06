@@ -1,17 +1,121 @@
-# 💫 About Me:
-🔭 I’m currently working onAI & Data Science Internship at LaunchED Global, focusing on industrial applications of BTech AI & DS.Developing scalable industrial solutions by transitioning academic concepts into real-world data science workflows.Mastering advanced data modeling, predictive analytics, and AI system architecture.<br>👯 I’m looking to collaborate onProjects involving Agentic AI Development and Autonomous AI Agents for scientific discovery.Research or development in Machine Learning-driven Drug Discovery and Privacy-Preserving Algorithms for Big Data.Innovations at the intersection of healthcare chatbots and Generative AI.<br>🤝 I’m looking for help withExpanding my expertise in Cloud-Based Systems for Big Data Analysis.Networking with tech innovators and startup enthusiasts to build impactful community-led ventures.<br>🌱 I’m currently learningAdvanced techniques in Exploratory Data Analysis (EDA) and Agentic AI.Industrial-grade AI system architecture and predictive analytics during my current internship.<br>💬 Ask me about My experience as the former President of the Bitbyte Club at SITRC or leading the Leads Community workshop and training.Organizing large-scale tech events like Tech Sandip to foster student-led innovation.The findings in my publications regarding AI in drug design, materials science, or climate modeling.<br>⚡ Fun fact I am a Visionary Leader and Entrepreneur who transitioned from leading campus tech clubs to publishing research on autonomous AI agents before graduating.
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Rupesh Kohli</h1>
+<h3 align="center">AI-Engineer</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=kohlirupesh19">
+    <img src="https://komarev.com/ghpvc/?username=kohlirupesh19&label=Profile%20views&color=00FFFF&style=flat-square" alt="kohlirupesh19's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
+
+## 🧠 My Focus Areas
+- 🔭 I’m currently working on AI & Data Science Internship at LaunchED Global, focusing on industrial applications of BTech AI & DS.Developing scalable industrial solutions by transitioning academic concepts into real-world data science workflows.Mastering advanced data modeling, predictive analytics, and AI system architecture.
+- 👯 I’m looking to collaborate on Projects involving Agentic AI Development and Autonomous AI Agents for scientific discovery.Research or development in Machine Learning-driven Drug Discovery and Privacy-Preserving Algorithms for Big Data.Innovations at the intersection of healthcare chatbots and Generative AI.
+- 🤝 I’m looking for help with Expanding my expertise in Cloud-Based Systems for Big Data Analysis.Networking with tech innovators and startup enthusiasts to build impactful community-led ventures.
+- 🌱 I’m currently learning Advanced techniques in Exploratory Data Analysis (EDA) and Agentic AI.Industrial-grade AI system architecture and predictive analytics during my current internship.
+- 💬 Ask me about My experience as the former President of the Bitbyte Club at SITRC or leading the Leads Community workshop and training.Organizing large-scale tech events like Tech Sandip to foster student-led innovation.The findings in my publications regarding AI in drug design, materials science, or climate modeling.
+- ⚡ Fun fact I am a Visionary Leader and Entrepreneur who transitioned from leading campus tech clubs to publishing research on autonomous AI agents before graduating.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rupesh-kohli-2098a41a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kohlirupesh12@gmail.com) 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/kohlirupesh19">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kohlirupesh19&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="kohlirupesh19's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=kohlirupesh19&theme=radical&hide_border=true&cache_seconds=86400" alt="kohlirupesh19's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=kohlirupesh19&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rupesh Kohli's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kohlirupesh19&theme=radical&radius=10" alt="kohlirupesh19's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kohlirupesh19&" alt="kohlirupesh19" /></p>
+## 🛠️ Languages & Tools
 
----
-[![](https://visitcount.itsvg.in/api?id=kohlirupesh19&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/kohlirupesh19">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kohlirupesh19&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=kohlirupesh19)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupesh-kohli-2098a41a7/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/918178747603">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:kohlirupesh12@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://portfolio-website-chi-three-75.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
+
