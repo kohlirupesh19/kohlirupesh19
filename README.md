@@ -9,6 +9,7 @@
 
 <img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
+
 ## 🧠 My Focus Areas
 - 🔭 I’m currently working on AI & Data Science Internship at LaunchED Global, focusing on industrial applications of BTech AI & DS.Developing scalable industrial solutions by transitioning academic concepts into real-world data science workflows.Mastering advanced data modeling, predictive analytics, and AI system architecture.
 - 👯 I’m looking to collaborate on Projects involving Agentic AI Development and Autonomous AI Agents for scientific discovery.Research or development in Machine Learning-driven Drug Discovery and Privacy-Preserving Algorithms for Big Data.Innovations at the intersection of healthcare chatbots and Generative AI.
