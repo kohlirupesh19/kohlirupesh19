@@ -1,123 +1,237 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Rupesh Kohli</h1>
-<h3 align="center">AI-Engineer</h3>
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=6,11,20&text=Rupesh%20Kohli&fontSize=70&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2&animation=fadeIn&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descSize=22&descAlignY=75&descColor=ffffff" width="100%" />
+
+</div>
+
+<div align="center">
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96+%7C+ML+Researcher+%F0%9F%94%AC;Agentic+AI+%7C+LLMs+%7C+Autonomous+Systems;Drug+Discovery+AI+%7C+Climate+Modeling;Building+the+Future+with+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" alt="AI Engineer GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+
+### 👋 About Me
+
+```python
+class RupeshKohli:
+    role        = "AI Engineer & Researcher"
+    location    = "India 🇮🇳"
+    education   = "BTech AI & Data Science"
+    
+    current     = [
+        "AI & Data Science Intern @ LaunchED Global",
+        "Building Agentic AI & Autonomous Systems",
+        "Research: Drug Discovery + Climate AI"
+    ]
+    
+    interests   = [
+        "LLMs & Generative AI",
+        "Privacy-Preserving ML",
+        "Healthcare AI Chatbots",
+        "Autonomous Agents"
+    ]
+    
+    fun_fact    = "Led campus tech clubs → Published AI research 🔬"
+    
+    def greet(self):
+        return "Let's build something intelligent together! 🚀"
+```
+
+<br clear="right"/>
+
+---
+
+## 🔭 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+**🧪 Current Work**
+- 🏭 **AI & DS Internship** at LaunchED Global — industrial AI workflows
+- 🔬 **Agentic AI Development** — autonomous agent pipelines
+- 📊 **Predictive Analytics** — scalable data science systems
+
+</td>
+<td width="50%">
+
+**🌱 Currently Learning**
+- 🤖 Advanced **EDA & Agentic AI** techniques
+- ☁️ **Cloud-Based Big Data** architectures
+- 🏗️ Industrial-grade **AI system architecture**
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🤝 Open to Collaborate On**
+- Autonomous AI agents for **scientific discovery**
+- **ML-driven Drug Discovery** research
+- **Privacy-Preserving Algorithms** for Big Data
+- **Healthcare + GenAI** intersections
+
+</td>
+<td>
+
+**📢 Ask Me About**
+- President @ **Bitbyte Club, SITRC**
+- Running **Leads Community** workshops
+- Organizing **Tech Sandip** events
+- AI research in **drug design, materials, climate**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 AI & ML Expertise
+
+<div align="center">
+
+![AI/ML](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-4ECDC4?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6B35?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00B4D8?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8338EC?style=for-the-badge&logo=HuggingFace&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FB5607?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-06D6A0?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Drug Discovery](https://img.shields.io/badge/AI_Drug_Discovery-E63946?style=for-the-badge&logo=molecule&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-457B9D?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![AutoML](https://img.shields.io/badge/AutoML-1D3557?style=for-the-badge&logo=Google&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">⚡ Programming Languages</h3>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=kohlirupesh19">
-    <img src="https://komarev.com/ghpvc/?username=kohlirupesh19&label=Profile%20views&color=00FFFF&style=flat-square" alt="kohlirupesh19's profile views" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp&theme=dark" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
-
-
-
-## 🧠 My Focus Areas
-- 🔭 I’m currently working on AI & Data Science Internship at LaunchED Global, focusing on industrial applications of BTech AI & DS.Developing scalable industrial solutions by transitioning academic concepts into real-world data science workflows.Mastering advanced data modeling, predictive analytics, and AI system architecture.
-- 👯 I’m looking to collaborate on Projects involving Agentic AI Development and Autonomous AI Agents for scientific discovery.Research or development in Machine Learning-driven Drug Discovery and Privacy-Preserving Algorithms for Big Data.Innovations at the intersection of healthcare chatbots and Generative AI.
-- 🤝 I’m looking for help with Expanding my expertise in Cloud-Based Systems for Big Data Analysis.Networking with tech innovators and startup enthusiasts to build impactful community-led ventures.
-- 🌱 I’m currently learning Advanced techniques in Exploratory Data Analysis (EDA) and Agentic AI.Industrial-grade AI system architecture and predictive analytics during my current internship.
-- 💬 Ask me about My experience as the former President of the Bitbyte Club at SITRC or leading the Leads Community workshop and training.Organizing large-scale tech events like Tech Sandip to foster student-led innovation.The findings in my publications regarding AI in drug design, materials science, or climate modeling.
-- ⚡ Fun fact I am a Visionary Leader and Entrepreneur who transitioned from leading campus tech clubs to publishing research on autonomous AI agents before graduating.
-
-
-## 📊 GitHub Stats & Trophies
+<h3 align="center">🤖 AI / ML Stack</h3>
 <p align="center">
-  <a href="https://github.com/kohlirupesh19">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kohlirupesh19&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="kohlirupesh19's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=kohlirupesh19&theme=radical&hide_border=true&cache_seconds=86400" alt="kohlirupesh19's GitHub Streak" width="49%" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="50"/>
 </p>
+
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=kohlirupesh19&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rupesh Kohli's GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 </p>
+
+<h3 align="center">🔧 Backend & Database</h3>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kohlirupesh19&theme=radical&radius=10" alt="kohlirupesh19's Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
 </p>
+
+<h3 align="center">☁️ DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,figma&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kohlirupesh19&cache_seconds=7200&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=kohlirupesh19&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=kohlirupesh19&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kohlirupesh19&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kohlirupesh19&theme=radical&radius=10&hide_border=true" width="100%" />
+</div>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
+---
 
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/kohlirupesh19">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kohlirupesh19&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=kohlirupesh19)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/rupesh-kohli-2098a41a7/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/918178747603">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:kohlirupesh12@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://portfolio-website-chi-three-75.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+## 📜 Research & Publications
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+
+| 🔬 Research Area | 📌 Focus |
+|:---|:---|
+| 🧬 **AI in Drug Design** | Autonomous molecular generation & property prediction |
+| ⚗️ **Materials Science AI** | ML-driven material property optimization |
+| 🌍 **Climate Modeling** | Predictive AI for environmental pattern analysis |
+| 🤖 **Autonomous AI Agents** | Multi-agent systems for scientific discovery |
+
 </div>
 
+---
+
+## 🏆 Leadership & Community
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│  🎓 Former President — Bitbyte Club @ SITRC          │
+│  🎤 Lead Trainer — Leads Community Workshops         │
+│  🚀 Organizer — Tech Sandip (Large-Scale Tech Event) │
+│  📢 Mentor — Student-led Innovation Initiatives      │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-kohli-2098a41a7/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kohlirupesh12@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918178747603)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-chi-three-75.vercel.app/)
+
+<br/>
+
+<a href="https://komarev.com/ghpvc/?username=kohlirupesh19">
+  <img src="https://komarev.com/ghpvc/?username=kohlirupesh19&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
