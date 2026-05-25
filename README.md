@@ -226,7 +226,7 @@ class RupeshKohli:
 
 <br/>
 
-<a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
+<a href="https://buymeacoffee.com/kohlirupesh21" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" />
 </a>
 
