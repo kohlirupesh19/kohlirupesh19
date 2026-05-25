@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96+%7C+ML+Researcher+%F0%9F%94%AC;Agentic+AI+%7C+LLMs+%7C+Autonomous+Systems;Drug+Discovery+AI+%7C+Climate+Modeling;Building+the+Future+with+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+%F0%9F%A4%96+%7C+ML+Researcher+%F0%9F%94%AC;Agentic+AI+%7C+LLMs+%7C+Autonomous+Systems;Drug+Discovery+AI+%7C+Climate+Modeling;Building+the+Future+with+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
